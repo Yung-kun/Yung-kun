@@ -7,20 +7,18 @@ Me acopanhe:*
 
 ---
 
-## 💻Linguagens e Tecnologias🧙‍♂
+## 💻Linguagens e Tecnologias🧙
 
-  <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/> 
-  <img src="https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&style=flat&logoColor=white" alt=Node.Js/>
+  <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3" alt="CSS3"/><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/><img src="https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&style=flat&logoColor=white" alt=Node.Js/>
 
 
 ---
 
-## 📊GitHub Graphs💭
+## 📊GitHub Status💭
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yung-kun&layout=compact&theme=onedark" alts="Top Langs" >
+<br>
 <img src= "https://github-readme-stats.vercel.app/api?username=Yung-kun&show_icons=true&theme=onedark" alts="Yung-kun GitHub Stars">
 
 ---
