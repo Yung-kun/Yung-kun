@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Yung-kun 🖐️
 
-*E essa é a minha jornada que estou trilhando !
+*E essa é a jornada que estou trilhando !
 Sou um entusiasta da tecnologia, apaixonado por descobrir como as coisas funcionam e transformar ideias em realidade através dos códigos!!
 Estou dando meus primeiros passos no universo da programação, aprendendo novas linguagens e absorvendo cada conceito com determinação e curiosidade.
 Me acopanhe:*
